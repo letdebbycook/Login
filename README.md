@@ -1,4 +1,4 @@
-/this is note with indonesian language
+this is note with indonesian language
 
 tolong baca sebelum buka!
 apapun yang dipost dalam repository ini adalah hasil latihan dan source nya banyak dari youtube
